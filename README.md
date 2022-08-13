@@ -4,6 +4,7 @@
 * Database:
 
 	python manage.py makemigrations
+
 	python manage.py migrate
 
 * static files:
@@ -19,6 +20,7 @@
 * start the server:
 
 	python manage.py runserver
+
 	then visit [Swagger page](http://127.0.0.1:8000/swagger)
 .
         
