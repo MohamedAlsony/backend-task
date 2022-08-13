@@ -1,6 +1,11 @@
 # backend-task
 
 ## steps to start the project
+
+* Install requirements
+
+	```pip install -r requirements.txt```
+
 * Database
 
 	```python manage.py makemigrations```
